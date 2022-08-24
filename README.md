@@ -8,7 +8,7 @@ Windows Spotlight imagies are located at
 
 but not all files are image.
 
-so if the file size meet the criteria, the code will copy it then pasted at the same location where this bat file is.
+so if the file size meet the criteria, the code will copy it then pasted in the same location where this bat file is located.
 
 also it would convert the file to .jpg
 
