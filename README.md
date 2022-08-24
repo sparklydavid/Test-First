@@ -7,7 +7,7 @@ Windows Spotlight imagies are located at 👇
 
 %LocalAppData%\Packages\Microsoft.Windows.ContentDeliveryManager_cw5n1h2txyewy\LocalState\Assets
 
-but not all files are image.
+but not all files are image
 
 so if the file size meet the criteria, the code will copy it then pasted as .jpg under the same location where this bat file is located.
 
