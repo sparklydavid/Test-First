@@ -9,4 +9,5 @@ Windows Spotlight imagies are located at 👇
 
 but not all files are image, so if the file size meet the criteria, the code will copy it then pasted as .jpg under the same location where the .bat file is located.
 
+![TutorialGif](https://github.com/sparklydavid/windows-spotlight-images/blob/main/screenshot/Spotlight.gif)
 ![Screenshoot](https://user-images.githubusercontent.com/87685038/156715214-5942141f-fc8e-45f6-82bc-b3e67b9d3dd9.png)
