@@ -1,4 +1,4 @@
-# Test-First
+# Spotlight Extractor 
 A Batch file that copy local windows spotlight imagies to a folder
 
 Explaination:
