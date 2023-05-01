@@ -4,6 +4,7 @@ I hate how windows taunt me with a nice looking welcome image every time I open 
 
 
 Function:
+
 This Batch file will copy local windows spotlight imagie change it to .jpg and paste it under the same location where the batch file is located at.
 
 
